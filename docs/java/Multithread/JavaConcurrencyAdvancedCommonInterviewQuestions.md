@@ -455,6 +455,7 @@ public interface Callable<V> {
 
 **方式一：通过构造方法实现**
 ![ThreadPoolExecutor构造方法](https://my-blog-to-use.oss-cn-beijing.aliyuncs.com/2019-6/ThreadPoolExecutor构造方法.png)
+
 **方式二：通过Executor 框架的工具类Executors来实现**
 我们可以创建三种类型的ThreadPoolExecutor：
 
